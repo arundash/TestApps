@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0ef01d4d5ed35bd884ce0ba10976b6df4d6ce800">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_712e2b581c2b83c9bd0f18b0abd8d56ac4142f1c\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android-Setup\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_34f08596dd42811249affaf446ec4c2772ce6523\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_d7351446742ead8600d79a6aa26a04350fcf4c81\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a47d7f6036dd0e7d4066bacced4fff1012cd47d7">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_87a5a21feb46399a3a9a5fbdbcdfb3fa18c4ac9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_de3235ccb15c95244b59184e5244ce1de8685404\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_5d776934821cc70cc841d20c8c470456d813a049\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c0f9e0533aabd55a24061aa91c9a3ab372c6443d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Arun\AndroidStudioProjects\NDKTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c387913114359ba93d9848a06b780d56c4e9a30d\classes.dex" />
+    </item>
+
+</items>
